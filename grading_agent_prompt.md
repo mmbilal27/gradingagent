@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# yes plz
-
-Here is the enhanced comprehensive system prompt for your assignment grader AI agent, including example output formatting and detailed rubric handling instructions:
 
 ***
 
@@ -74,5 +69,4 @@ Your primary goal is to emulate the thoughtful, rigorous approach of a human tea
 
 ***
 
-This prompt guides the AI to deliver a systematic, transparent, and pedagogically sound grading and feedback process.
 
